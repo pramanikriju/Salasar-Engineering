@@ -1,0 +1,4 @@
+[30-Aug-2019 09:42:59 UTC] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/rrjqxw3mj47o/public_html/blog/wp-content/themes/bizzman/header.php on line 36
+[30-Aug-2019 09:44:00 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting ',' or ')' in /home/rrjqxw3mj47o/public_html/blog/wp-content/themes/bizzman/header.php on line 36
+[30-Aug-2019 09:44:02 UTC] PHP Parse error:  syntax error, unexpected '?>', expecting ',' or ')' in /home/rrjqxw3mj47o/public_html/blog/wp-content/themes/bizzman/header.php on line 36
+[30-Aug-2019 09:45:03 UTC] PHP Parse error:  syntax error, unexpected ';', expecting ',' or ')' in /home/rrjqxw3mj47o/public_html/blog/wp-content/themes/bizzman/header.php on line 36
