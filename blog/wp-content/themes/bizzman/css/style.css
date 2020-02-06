@@ -1011,7 +1011,7 @@ ol {
 
 .projects-slider .single-project .seemore {
     position: absolute;
-    right: 50px;
+    left: 50px;
     bottom: 30px;
     background: #baff00;
     font-size: 14px;

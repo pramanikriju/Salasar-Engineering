@@ -662,7 +662,7 @@ ol {
     background-image: url(../img/god.jpg);
     background-size: cover;
     top: -10px;
-    z-index: 111;
+/*    z-index: 111;*/
     text-align: right;
     padding-right: 20px;
     padding-top: 60px;
@@ -1013,7 +1013,7 @@ ol {
 
 .projects-slider .single-project .seemore {
     position: absolute;
-    right: 50px;
+    left: 50px;
     bottom: 30px;
     background: #baff00;
     font-size: 14px;
@@ -2362,9 +2362,9 @@ ol {
     bottom: 140px !important;
 }
 .product-name {
-    text-align:center;
+    text-align:left;
     background-color:#baff00;
-    padding: 18px 0;
+    padding: 18px 10px;
     font-size: 16px;
 }
 .top-contact {
@@ -2403,4 +2403,10 @@ ol {
 footer-item  p {
     font-size: 2rem;
     color: black;
+}
+/* Small devices (tablets, 768px and up) */
+@media (min-width: 768px) { 
+ .projects {
+        padding-left: 100px;
+    }
 }
